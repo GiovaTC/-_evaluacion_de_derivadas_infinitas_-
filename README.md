@@ -192,4 +192,4 @@ El algoritmo:
 Implementa 3 niveles de decisión anidados.
 Evalua condiciones matematicas reales.
 Permite persistencia en Oracle 19c.
-Es escalable a arquitecturas empresariales (MVC) / : . / .  
+Es escalable a arquitecturas empresariales (MVC) :. . / .  
